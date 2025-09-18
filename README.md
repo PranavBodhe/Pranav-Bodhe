@@ -1,6 +1,20 @@
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,100:F09819&height=100&section=header&text=🔥%20Pranav%20Bodhe%20🔥&fontSize=40&fontColor=ffffff)
+
 # 👋 Hi, I’m Pranav Bodhe  
 
-> 🚀 Passionate Computer Engineering Student • 💡 Building real-world projects in AI, ML, and Web Development • 🏆 Smart India Hackathon 2024 Winner  
+> 🚀 *Passionate Computer Engineering Student*  
+> 💡 *Building real-world projects in AI, ML, Web and App Development*  
+> 🏆 *Smart India Hackathon 2024 Winner*  
+
+---
+
+## ⌨️ About Me  
+
+- 🔥 Always curious to explore cutting-edge tech  
+- 🛠️ Experienced with **Python, C++, Bash, ML**  
+- 🌍 Open to collaborations on **AI, Cybersecurity & Cloud** projects  
+- 🎯 Goal: Becoming a top-tier Software Engineer with global impact  
 
 ---
 
@@ -23,30 +37,27 @@
 
 | Project | Description |
 |---------|-------------|
-| **[Qunta_4](https://github.com/PranavBodhe/Qunta_4)** | An innovative project built during **Smart India Hackathon 2024** (Hardware Edition) with Team United 3. |
-| **[Phishing Website Detection](#)** | 🔒 AI-powered ML model for detecting phishing websites, with real-time monitoring and web app integration. |
-| **[Todo-list](https://github.com/PranavBodhe/Todo-list)** | A simple yet effective task management app with clean UI and CRUD features. |
-| **[Live Chat App](#)** | Real-time chat application using Flask, WebSockets, and MongoDB styled like WhatsApp. |
+| **[Qunta_4](https://github.com/PranavBodhe/Qunta_4)** | 🏆 Built during **Smart India Hackathon 2024** with Team United 3. |
+| **[Phishing Website Detection](#)** | 🔒 AI-powered ML system for detecting phishing URLs in real-time. |
+| **[Todo-list](https://github.com/PranavBodhe/Todo-list)** | ✅ Task management app with clean UI and CRUD operations. |
+| **[Live Chat App](#)** | 💬 Real-time chat using Flask, WebSockets & MongoDB (WhatsApp style). |
 
 ---
 
 ## 🌱 I’m Currently Learning  
-
-- Advanced Python programming 🐍  
-- Data Structures & Algorithms in C++ ⚡  
-- Machine Learning (Phishing URL Detection, AI projects) 🤖  
-- Cybersecurity & Cloud Computing 🔐☁️  
-
----
-
-## 📊 GitHub Stats  
-
-![Pranav’s GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavBodhe&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBodhe&layout=compact&theme=radical)
+  
+- ⚡ Data Structures & Algorithms in C++   
+- 🔐☁️ Cybersecurity & Cloud Computing
+- 🔥Data Analyst 
 
 ---
+
 
 ## 📫 Let’s Connect  
 
-- 🔗 LinkedIn: [your-link](#)  
-- 📧 Email: your-email@example.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranav-bodhe-2839b9284  
+- 📧 Email: **pranavbodhe299@example.com**  
+
+---
+
+
