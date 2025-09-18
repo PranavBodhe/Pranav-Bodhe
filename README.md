@@ -37,7 +37,7 @@
 
 | Project | Description |
 |---------|-------------|
-| **[Qunta_4](https://github.com/PranavBodhe/Qunta_4)** | 🏆 Built during **Smart India Hackathon 2024** with Team United 3. |
+| **[Skill Swap](https://github.com/PranavBodhe/Qunta_4)** | 🔑Connects people who want to learn with people who can teach. |
 | **[Phishing Website Detection](#)** | 🔒 AI-powered ML system for detecting phishing URLs in real-time. |
 | **[Todo-list](https://github.com/PranavBodhe/Todo-list)** | ✅ Task management app with clean UI and CRUD operations. |
 | **[Live Chat App](#)** | 💬 Real-time chat using Flask, WebSockets & MongoDB (WhatsApp style). |
